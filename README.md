@@ -1,1 +1,1 @@
-Pr Github
+Practice Github
