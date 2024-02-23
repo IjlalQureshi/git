@@ -1,1 +1,1 @@
-Pratctising Github
+Pr Github
